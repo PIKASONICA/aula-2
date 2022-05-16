@@ -1,0 +1,22 @@
+lista armazenamento diversos objetos em uma unica variavel
+cada objeto tem um indice, que indica sua posição dentro da lista
+0 indice 0 refere-se ao primeiro elemento de uma lista
+OPERAÇÕES 
+A função Len() informa a quantidade de objetos em uma linha
+#lista = [8, "manda" , true , -5,6] #cria uma lista com quatro
+    objetos
+print(len(lista) # imprimir 4
+
+A função list() altera a tipo de um objeto para list e também 
+para criar uma nova lista 
+#minhalista = lista ((45, "ola", 6,21)) 3 criar uma lista com tres
+    objetos
+   imprimir (minhalista) #imprime [45,3'ola', 6,21]
+   #01 primeiro objeto rem como indice [0]
+   ex: lista
+   minha lista = ["taiba", "igual", pecem", "cumbuco, "lagoinha","
+   bitupica', "paracuru", "mandau"]
+  O codigo abaixo exibe os objetos da terceira posiçao ate o fim 
+  de minhalista
+  ex:print (minhalista [2;])
+  o codigo abaixo exibe os objetos da terceira 
